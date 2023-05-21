@@ -16,7 +16,7 @@ Phoenix Liveview Validations
 ## About The App
  This is a project that contains validations for  Phoenix Live View Models .
  It is a pre-requisite for the Phoenix Live View Validations Article that I wrote on Medium.
- [Phoenix Live View Validations](https://michaelmunavu83.medium.com/phoenix-live-view-validations-1e3b0b0b0b1a)
+ [Phoenix Live View Validations](https://medium.com/@michaelmunavu83/unlock-the-power-of-validations-in-phoenix-live-view-ensuring-robust-user-input-69f77aed422c)
 
 ## Screenshots
 
