@@ -20,9 +20,8 @@ Phoenix Liveview Validations
 
 ## Screenshots
 
-![1](https://user-images.githubusercontent.com/86654131/226243076-91716cad-38ed-4fb8-b4e9-9c5c0e43438c.png)
+<img width="1440" alt="Screenshot 2023-05-21 at 13 21 29" src="https://github.com/MICHAELMUNAVU83/phoenix_liveview_validations/assets/86654131/8cb5cedb-0415-465c-83c7-3c6b8c1c509c">
 
-![2](https://user-images.githubusercontent.com/86654131/226243085-9fdc0d77-0bdf-47bf-b666-e8cc1f2ea67e.png)
 
 
 
@@ -30,7 +29,7 @@ Phoenix Liveview Validations
 
 
 ## Technologies
-I used `Elixir ` and `Phoenix Live View` and `Ruby on Rails`
+I used `Elixir ` and `Phoenix Live View` .
 
 ## Setup
 To start your Phoenix server:
